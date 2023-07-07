@@ -4,6 +4,7 @@ from .Providers import (
     Bard,
     Better,
     Bing,
+    Chatanywhere,
     ChatgptAi,
     ChatgptLogin,
     ChatgptLogin,
